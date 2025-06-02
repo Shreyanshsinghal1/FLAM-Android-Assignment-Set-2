@@ -15,8 +15,4 @@ A simple Android app (Java + MVVM) that fetches and tracks daily weather stats.
 - WorkManager
 - RecyclerView
 
-## Screenshots
-(Add screenshots here)
 
-## License
-MIT
