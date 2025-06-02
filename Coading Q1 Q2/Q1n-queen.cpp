@@ -36,7 +36,8 @@ public:
 };
 
 int main() {
-    int size = 4;
+    int size ;
+    cin>>size;
     NQueenSolver solver;
     vector<vector<string>> res = solver.getSolutions(size);
 
